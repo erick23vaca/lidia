@@ -16,19 +16,19 @@
   <div class="carousel-inner">
     <div class="item active">
       <div class="text-center">
-      <img src="https://2.bp.blogspot.com/-1wQo0EYtjMU/TrLJXI3XBpI/AAAAAAAAWJU/o-TpRQrHFNg/s1600/apunte+de+campo+2%252C+%25C3%2593leo+Sobre+Lienzo%252C+Walter+Zuluaga+Pintor+Colombiano.JPG" alt="img banner1"height=" 300px"width="800px">
+      <img src="https://2.bp.blogspot.com/-1wQo0EYtjMU/TrLJXI3XBpI/AAAAAAAAWJU/o-TpRQrHFNg/s1600/apunte+de+campo+2%252C+%25C3%2593leo+Sobre+Lienzo%252C+Walter+Zuluaga+Pintor+Colombiano.JPG" alt="img banner1"height=" 400px"width="1500px">
     </div>
   </div>
 
     <div class="item">
       <div class="text-center">
-      <img src="https://cdn.forbes.com.mx/2019/06/plaza-de-toros-mexico-640x360.jpg" alt="img banner2"height="300px"width="800px">
+      <img src="https://cdn.forbes.com.mx/2019/06/plaza-de-toros-mexico-640x360.jpg" alt="img banner2"height="400px"width="1500px">
     </div>
   </div>
 
     <div class="item">
       <div class="text-center">
-      <img src="https://4.bp.blogspot.com/-zoMvgKTkeck/UW1VDxJG74I/AAAAAAABE-c/4q0ypNEowNs/s1600/paisaje-toros-de-lidia-al-oleo.jpg" alt="img banner3"height="300px"width="800px">
+      <img src="https://4.bp.blogspot.com/-zoMvgKTkeck/UW1VDxJG74I/AAAAAAABE-c/4q0ypNEowNs/s1600/paisaje-toros-de-lidia-al-oleo.jpg" alt="img banner3"height="400px"width="1500px">
     </div>
   </div>
   </div>
