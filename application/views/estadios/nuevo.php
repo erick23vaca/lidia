@@ -1,5 +1,5 @@
 <div class="text-center">
-<h1>NUEVO ESTADIO</h1>
+<h1 class="glyphicon glyphicon plus">NUEVO ESTADIO</h1>
 </div>
 <form class=""
 action="<?php echo site_url(); ?>/estadios/guardar"

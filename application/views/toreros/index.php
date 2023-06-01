@@ -1,7 +1,13 @@
-<div class="text-center">
-  <h1>LISTADO DE TOREROS</h1>
+<div class="row">
+  <div class="col-md-8">
+      <h1>LISTADO DE TOREROS</h1>
+  </div>
+  <br>
+<div class="col-md-4">
+    <a href="<?php echo site_url('toreros/nuevo'); ?>" class="btn btn-primary">
+    <i class="glyphicon glyphicon-plus"></i> Agregar Estadios</a>
 </div>
-<br>
+</div>
 <?php if ($toreros): ?>
   <!-- table-hoverpara que el pulsor se marque -->
 <table class="table table-striped table-bordered table-hover">
@@ -39,8 +45,7 @@
             <i class="glyphicon glyphicon-pencil"></i>
           </a>
           &nbsp;&nbsp; &nbsp;
-          <a href="<?php echo site_url(); ?>/toreros/eliminar/<?php echo $filaTemporal->id_tor ?>"
-          title="Eliminar Toreros" style="color:red;">
+          <a href="<?php echo site_url(); ?>/toreros/eliminar/<?php echo $filaTemporal->id_tor;?>" title="Eliminar Toreros" style="color:red;" onclick="return confirm('¿Estas seguro de eliminar este registro?')">
             <i class="glyphicon glyphicon-trash"></i>
           </a>
         </td>

@@ -1,5 +1,5 @@
 <div class="text-center">
-<h1>NUEVO TORERO</h1>
+<h1 class="glyphicon glyphicon-user"> NUEVO TORERO</h1>
 </div>
 <form class=""
 action="<?php echo site_url(); ?>/toreros/guardar"
